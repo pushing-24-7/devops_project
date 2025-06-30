@@ -1,4 +1,4 @@
-# 🔐 Password Generator
+# 🔐 [Password Generator](https://htmlpreview.github.io/?https://github.com/pushing-24-7/devops_project/blob/v2/index.html)
 
 This is a simple and customizable **Password Generator** built to generate strong passwords based on user-defined preferences. You can control:
 
